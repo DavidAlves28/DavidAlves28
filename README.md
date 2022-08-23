@@ -1,8 +1,35 @@
-### Olá!! 
-## Eu sou o David Alves, Estudante de programação e tecnologia!
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ Desenvolvedor Full stack em Formação
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
+
+### Olá!! Eu sou o David Alves, Estudante de programação e tecnologia!
+<p align="center">
+  <img src="logo.gif">
+</p>
+
+<p align="center">
+  <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%3C+-----++++Full-Stack+Developer++-----%3E" alt="Typing SVG" />
+  </a>
+</p>
+
+##  Skills
+
+- 🔭 <b>Frontend</b> : React.js
+- 👨‍💻 <b>Backend</b> : Node.js 
+- 💬 <b>Database</b> : MySQL, AWS
+- 📫 <b>Languages</b> : JavaScript,TypeScript, HTML,CS
+<!-- - 🌱 <b>Libraries</b> : Bootstrap -->
+
+
 <div align="center">
   <a href="https://github.com/DavidAlves28">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidAlves28&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+  </div>
+</div>
+
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAlves28&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
 <div style="display: inline_block"><br>
@@ -20,5 +47,4 @@
   <a href="https://www.linkedin.com/in/david-alves-7a2b90145/" target="_blank"><img align="center"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
- 
-</div>
+ </div>
