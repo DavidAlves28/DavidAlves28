@@ -19,7 +19,7 @@
 - 🔭 <b>Frontend</b> : React.js
 - 👨‍💻 <b>Backend</b> : Node.js 
 - 💬 <b>Database</b> : MySQL, AWS
-- 📫 <b>Languages</b> : JavaScript,TypeScript, HTML,CS
+- 📫 <b>Languages</b> : JavaScript,TypeScript, HTML,CSS
 <!-- - 🌱 <b>Libraries</b> : Bootstrap -->
 
 
