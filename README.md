@@ -16,9 +16,9 @@
 
 ##  Skills
 
-- 🔭 <b>Frontend</b> : React.js    (Aprendendo Agora)
-- 👨‍💻 <b>Backend</b> : Node.js 
-- 💬 <b>Database</b> : MySQL, AWS
+- 🔭 <b>Frontend</b> : React.js   
+- 👨‍💻 <b>Backend</b> : Node.js  (Aprendendo Agora)
+- 💬 <b>Database</b> : MySQL, AWS  (Aprendendo Agora)
 - 📫 <b>Languages</b> : JavaScript,TypeScript, HTML,CSS
 <!-- - 🌱 <b>Libraries</b> : Bootstrap -->
 
