@@ -20,7 +20,7 @@
 - 👨‍💻 <b>Backend</b> : Node.js  (Aprendendo Agora)
 - 💬 <b>Database</b> : MySQL, AWS  (Aprendendo Agora)
 - 📫 <b>Languages</b> : JavaScript,TypeScript, HTML,CSS
-<!-- - 🌱 <b>Libraries</b> : Bootstrap -->
+- 🪄 <b>Design System</b> : Chacra UI , Bootstrap
 
 
 <div align="center">
