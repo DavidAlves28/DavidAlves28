@@ -22,6 +22,7 @@
 - 🪄 <b>Design System</b> : Chacra UI , Bootstrap 
 
 
+  <div style="display:flex">
   
 <div align="left">
   <a href="https://github.com/DavidAlves28">
@@ -42,7 +43,7 @@
   <img align="center" alt="David-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="David-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   </div>
-
+</div>
  <div align="right"><br> 
   <a href = "mailto:dav.alvesc28@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/david-alves-7a2b90145/" target="_blank"><img align="center"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
