@@ -23,7 +23,7 @@
 
 
 
- <div style="display:flex" >
+ <div style="display:flex, flex-direction:row" >
 <div >
   <a href="https://github.com/DavidAlves28">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DavidAlves28&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
