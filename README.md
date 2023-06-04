@@ -23,12 +23,12 @@
 
 
 
- <div style="display: inline_block" >
-<div align="left">
+ <div style="display:flex" >
+<div >
   <a href="https://github.com/DavidAlves28">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DavidAlves28&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-  <div align="right">
+  <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAlves28&layout=compact&langs_count=7&theme=dark"/> 
 
 </div>
