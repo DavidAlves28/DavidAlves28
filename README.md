@@ -17,10 +17,9 @@
 ##  Skills
 
 - 🔭 <b>Frontend</b> : React.js, JavaScript, TypeScript, HTML, CSS  
-- 👨‍💻 <b>Backend</b> : Node.js  (Aprendendo Agora)
-- 💬 <b>Database</b> : MySQL, AWS  (Aprendendo Agora)
-- 📫 <b>Languages</b> : JavaScript,TypeScript, HTML,CSS
-- 🪄 <b>Design System</b> : Chacra UI , Bootstrap
+- 👨‍💻 <b>Backend</b> : Node.js , Typescript , Express, POO , Arquitetura Camadas, Jest (Aprendendo Agora)
+- 💬 <b>Database</b> : MySQL, SQLite , AWS   (Aprendendo Agora)
+- 🪄 <b>Design System</b> : Chacra UI , Bootstrap 
 
 
   
